@@ -1,0 +1,3 @@
+com.eclatsol.noteroomdatabase.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

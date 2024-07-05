@@ -1,0 +1,11 @@
+com.eclatsol.noteroomdatabase.test.app-room-runtime-2.6.1-0 C:\Users\jemis\.gradle\caches\transforms-3\21692a3ee692775d1f2bda3c904e66a5\transformed\room-runtime-2.6.1\res
+com.eclatsol.noteroomdatabase.test.app-core-runtime-2.2.0-1 C:\Users\jemis\.gradle\caches\transforms-3\887830a58f41d5340d9c8d7904d9bc71\transformed\core-runtime-2.2.0\res
+com.eclatsol.noteroomdatabase.test.app-annotation-experimental-1.3.0-2 C:\Users\jemis\.gradle\caches\transforms-3\8ef30cd8458785a6f5c6520a3378e97c\transformed\annotation-experimental-1.3.0\res
+com.eclatsol.noteroomdatabase.test.app-sqlite-2.4.0-3 C:\Users\jemis\.gradle\caches\transforms-3\a63da14657f61683b23fb8cd5684026a\transformed\sqlite-2.4.0\res
+com.eclatsol.noteroomdatabase.test.app-room-testing-2.6.1-4 C:\Users\jemis\.gradle\caches\transforms-3\a76625825f71576b6f0f2644bebcc1aa\transformed\room-testing-2.6.1\res
+com.eclatsol.noteroomdatabase.test.app-sqlite-framework-2.4.0-5 C:\Users\jemis\.gradle\caches\transforms-3\b7b4bc326361448165b09c427cc1c106\transformed\sqlite-framework-2.4.0\res
+com.eclatsol.noteroomdatabase.test.app-core-1.5.0-6 C:\Users\jemis\.gradle\caches\transforms-3\ee985323bd50bae98bdc77920fdb7205\transformed\core-1.5.0\res
+com.eclatsol.noteroomdatabase.test.app-androidTest-7 F:\AndroidPracticeProject\NoteRoomDataBase\app\build\generated\res\resValues\androidTest\debug
+com.eclatsol.noteroomdatabase.test.app-mergeDebugAndroidTestResources-8 F:\AndroidPracticeProject\NoteRoomDataBase\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.eclatsol.noteroomdatabase.test.app-mergeDebugAndroidTestResources-9 F:\AndroidPracticeProject\NoteRoomDataBase\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.eclatsol.noteroomdatabase.test.app-merged_res-10 F:\AndroidPracticeProject\NoteRoomDataBase\app\build\intermediates\merged_res\debugAndroidTest

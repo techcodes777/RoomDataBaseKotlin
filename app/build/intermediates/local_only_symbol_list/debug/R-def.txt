@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color orange_color
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable outline_delete_forever_24
+id addButton
+id btnSubmit
+id deleteButton
+id etValue
+id input
+id ivDelete
+id recyclerView
+id recyclerViewAddData
+id text
+id tvText
+layout activity_data_add
+layout activity_home
+layout activity_main
+layout item_add_data
+layout item_note
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.NoteRoomDataBase
+style Theme.NoteRoomDataBase
+xml backup_rules
+xml data_extraction_rules
